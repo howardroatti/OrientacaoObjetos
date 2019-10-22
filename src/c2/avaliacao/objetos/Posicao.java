@@ -1,0 +1,15 @@
+package c2.avaliacao.objetos;
+
+public enum Posicao {
+	GOLEIRO,
+	LATERAL,
+	ZAGUEIRO,
+	MEIA,
+	VOLANTE,
+	MEIA_ATACANTE,
+	MEIA_ARMADOR,
+	ATACANTE,
+	CENTRO_AVANTE,
+	PONTA,
+	NENHUMA;
+}
